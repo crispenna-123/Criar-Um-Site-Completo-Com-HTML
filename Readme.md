@@ -60,14 +60,6 @@ Cada página deve seguir a estrutura do arquivo `template.html`, contendo:
 
 - **HTML5** para estruturação das páginas
 
-## 🚀 Como Executar o Projeto
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   ```
-2. Abra o arquivo `index.html` no navegador.
-
 ## 🎯 Desafio
 
 Este projeto é um desafio proposto na trilha de HTML da Dio.me. Ele serve como prática para os conceitos de:
